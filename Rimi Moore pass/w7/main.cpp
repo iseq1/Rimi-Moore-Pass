@@ -9,8 +9,8 @@
 using namespace std;
 
 int main() {
-    const int ROWS = 2;
-    const int COLS = 2;
+    const int ROWS = 6;
+    const int COLS = 7;
     double matrix[ROWS][COLS];
 
     // ввод матрицы
